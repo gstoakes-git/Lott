@@ -133,6 +133,6 @@ if st.button("Generate Sets 🚀"):
 
 ## 🧪 Sample CSV Format
 
-You’ll need to upload draw history files in CSV format:
+You'll need to upload draw history files in CSV format:
 
 - **UK Lotto**: 6 columns, each row like:
